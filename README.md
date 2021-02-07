@@ -1,5 +1,5 @@
 # HackerRank-C
-This repository contains **HackerRank** Problem Solution.
+This repository contains **HackerRank C** Problem Solution.
 
 Follow me on **HackerRank** [Click here!](https://www.hackerrank.com/arwazkhan189)
 
