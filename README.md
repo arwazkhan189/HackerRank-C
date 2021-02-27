@@ -22,4 +22,5 @@ Follow me on **HackerRank** [Click here!](https://www.hackerrank.com/arwazkhan18
 | Printing Pattern Using Loops |Conditionals and Loops| [Link](https://www.hackerrank.com/challenges/printing-pattern-2)|
 | 1D Arrays in C| Arrays and Strings |[Link](https://www.hackerrank.com/challenges/1d-arrays-in-c)|
 | Array Reversal | Arrays and Strings |[Link](https://www.hackerrank.com/challenges/reverse-array-c)|
+| Printing Tokens | Arrays and Strings |[Link](https://www.hackerrank.com/challenges/printing-tokens-)|
 | Students Marks Sum | Functions |[Link](https://www.hackerrank.com/challenges/students-marks-sum)|
