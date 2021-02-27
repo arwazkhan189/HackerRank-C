@@ -18,6 +18,7 @@ Follow me on **HackerRank** [Click here!](https://www.hackerrank.com/arwazkhan18
 | Conditional Statements in C |Conditionals and Loops| [Link](https://www.hackerrank.com/challenges/conditional-statements-in-c)|
 | For Loop in C |Conditionals and Loops| [Link](https://www.hackerrank.com/challenges/for-loop-in-c)|
 | Sum of Digits of a Five Digit Number|Conditionals and Loops| [Link](https://www.hackerrank.com/challenges/sum-of-digits-of-a-five-digit-number)|
+| Bitwise Operators |Conditionals and Loops| [Link](https://www.hackerrank.com/challenges/bitwise-operators-in-c)|
 | Printing Pattern Using Loops |Conditionals and Loops| [Link](https://www.hackerrank.com/challenges/printing-pattern-2)|
 | 1D Arrays in C| Arrays and Strings |[Link](https://www.hackerrank.com/challenges/1d-arrays-in-c)|
 | Array Reversal | Arrays and Strings |[Link](https://www.hackerrank.com/challenges/reverse-array-c)|
