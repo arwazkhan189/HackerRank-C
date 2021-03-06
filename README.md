@@ -26,3 +26,4 @@ Follow me on **HackerRank** [Click here!](https://www.hackerrank.com/arwazkhan18
 | Calculate the Nth term | Functions |[Link](https://www.hackerrank.com/challenges/recursion-in-c)|
 | Students Marks Sum | Functions |[Link](https://www.hackerrank.com/challenges/students-marks-sum)|
 | Boxes through a Tunnel | Structs and Enums |[Link](https://www.hackerrank.com/challenges/too-high-boxes)| 
+| Small Triangles, Large Triangles | Structs and Enums |[Link](https://www.hackerrank.com/challenges/small-triangles-large-triangles)| 
