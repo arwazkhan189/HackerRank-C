@@ -23,4 +23,5 @@ Follow me on **HackerRank** [Click here!](https://www.hackerrank.com/arwazkhan18
 | 1D Arrays in C| Arrays and Strings |[Link](https://www.hackerrank.com/challenges/1d-arrays-in-c)|
 | Array Reversal | Arrays and Strings |[Link](https://www.hackerrank.com/challenges/reverse-array-c)|
 | Printing Tokens | Arrays and Strings |[Link](https://www.hackerrank.com/challenges/printing-tokens-)|
+| Calculate the Nth term | Functions |[Link](https://www.hackerrank.com/challenges/recursion-in-c)|
 | Students Marks Sum | Functions |[Link](https://www.hackerrank.com/challenges/students-marks-sum)|
