@@ -23,6 +23,8 @@ Follow me on **HackerRank** [Click here!](https://www.hackerrank.com/arwazkhan18
 | 1D Arrays in C| Arrays and Strings |[Link](https://www.hackerrank.com/challenges/1d-arrays-in-c)|
 | Array Reversal | Arrays and Strings |[Link](https://www.hackerrank.com/challenges/reverse-array-c)|
 | Printing Tokens | Arrays and Strings |[Link](https://www.hackerrank.com/challenges/printing-tokens-)|
+| Digit Frequency | Arrays and Strings |[Link](https://www.hackerrank.com/challenges/frequency-of-digits-1/problem)|
+| Dynamic Array in C | Arrays and Strings |[Link](https://www.hackerrank.com/challenges/dynamic-array-in-c/problem)|
 | Calculate the Nth term | Functions |[Link](https://www.hackerrank.com/challenges/recursion-in-c)|
 | Students Marks Sum | Functions |[Link](https://www.hackerrank.com/challenges/students-marks-sum)|
 | Variadic functions in C | Functions |[Link](https://www.hackerrank.com/challenges/variadic-functions-in-c)|
